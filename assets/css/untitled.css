@@ -1,0 +1,130 @@
+.bg-primary {
+  background-color: #0a87f7!important;
+}
+
+hr.star-light:after {
+  color: #fff;
+  background-color: #0a87f7;
+}
+
+.bg-secondary {
+  background-color: #000000!important;
+}
+
+.text-secondary {
+  color: #000000!important;
+}
+
+hr.star-dark {
+  border-color: #000000;
+}
+
+hr.star-dark:after {
+  color: #000000;
+  background-color: #fff;
+}
+
+.btn-primary {
+  background-color: #18bc9c;
+  border-color: #18bc9c;
+  margin: 0 auto;
+  display: block;
+}
+
+avatar {
+  display: block;
+  border-radius: 200px;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+  border: 10px solid #FFFFFF;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  transition: all .5s ease;
+  opacity: 0;
+  background-color: rgba(10,135,247,.7);
+}
+
+box-fill {
+  width: auto;
+  height: auto;
+}
+
+.mb-5, .my-5 {
+  margin-bottom: 3rem!important;
+  display: block;
+  /*box-sizing: border-box;*/
+  /*background-color: #DDDDDD;*/
+  border: 10px solid #FFFFFF;
+}
+
+.portfolio-thumbnail {
+  padding: 27px;
+  margin-bottom: 3rem!important;
+  display: block;
+  border-radius: 50px;
+  box-sizing: border-box;
+  width: 70;
+  border: 10px solid #FFFFFF;
+}
+
+.cpp-portfolio-turquoise {
+  padding: 27px;
+  background-color: #000000;
+  margin-bottom: 3rem!important;
+  display: block;
+  border-radius: 75px;
+  box-sizing: border-box;
+  border: 10px solid #FFFFFF;
+}
+
+.cpp-portfolio-tur {
+  padding: 27px;
+  background-color: #000000;
+  margin-bottom: 3rem!important;
+  display: block;
+  border-radius: 75px;
+  box-sizing: border-box;
+  border: 10px solid #FFFFFF;
+}
+
+.social-footer {
+  target: blank;
+}
+
+.btn:hover {
+  color: #84c2ff;
+  text-decoration: none;
+}
+
+.row.responsive {
+  word-break: break-all;
+}
+
+.html html.fit {
+  white-space: nowrap;
+  width: 1%;
+}
+
+a {
+  color: #0a87f7;
+}
+
+a:active, a:focus, a:hover {
+  color: #ffffff;
+}
+
+@media (min-width:992px) {
+  .col-lg-4 {
+    -ms-flex: 0 0 33.33333%;
+    flex: 0 0 33.33333%;
+    max-width: 20%;
+  }
+}
+
+.modal-center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+

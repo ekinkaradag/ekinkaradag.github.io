@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ekinkaradag.github.io
+Token: 976fb8acf46668a75ae4b6fdfab97a29d88ca1012691a119d568224e5ada5d82
